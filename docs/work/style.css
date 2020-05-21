@@ -1,0 +1,49 @@
+* {margin: 0 }
+
+header{
+    background-image: url(../assets/images/palm.JPG);
+    padding: 30px;
+    margin: 0;
+
+}
+
+.site-title{
+    background-color: rgb(238, 203, 136);
+    color: rgb(250, 214, 160);
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.main-menu {
+    background-color: blanchedalmond;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.menu-item {
+    margin: 0 20px;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+
+.menu-item:hover {
+    background-color: wheat;
+}
+
+h2 {
+    text-align: center;
+    background-color: cornflowerblue;
+
+}
+
+.main-content{
+
+}
