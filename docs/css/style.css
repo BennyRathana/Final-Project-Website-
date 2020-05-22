@@ -24,6 +24,11 @@ h2 {
     padding: 10px;
 }
 
+.site-title:hover{
+    background-image: linear-gradient(red blue);
+    animation-duration: .5s;
+}
+
 .no-underline {
     text-decoration: none;
 }
